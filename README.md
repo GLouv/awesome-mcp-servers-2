@@ -71,6 +71,7 @@ Official integrations are maintained by companies building production ready MCP 
 - **[Baserow](https://baserow.io/user-docs/mcp-server)** - Read and write access to your Baserow tables.
 - **[Box](https://github.com/box-community/mcp-server-box)** - Interact with the Intelligent Content Management platform through Box AI.
 - **[Bright Data](https://github.com/brightdata/brightdata-mcp)** - Discover, extract, and interact with the web - one interface powering automated access across the public internet.
+- **[Browser MCP by Agent360](https://github.com/Agent360dk/browser-mcp)** - Drive your real, logged-in Chrome from any MCP client, without approving every session. Chrome extension plus a local server, so the agent works with the cookies, logins and 2FA you already have. 40 tools, 20 concurrent sessions, MIT.
 - **[Browserbase](https://github.com/browserbase/mcp-server-browserbase)** - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more)
 - **[BrowserStack](https://github.com/browserstack/mcp-server)** – Bring the full power of BrowserStack’s [Test Platform](https://www.browserstack.com/test-platform) to your AI tools, making testing faster and easier for every developer and tester on your team.
 - **[Bucket](https://github.com/bucketco/bucket-javascript-sdk/tree/main/packages/cli#model-context-protocol)** - Flag features, manage company data, and control feature access using [Bucket](https://bucket.co)
